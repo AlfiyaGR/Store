@@ -49,7 +49,7 @@ export default defineConfig({
             '^/clothes': {
                 target: 'https://localhost:7099/',
                 secure: false
-            }
+            },
         },
         port: 5173,
         https: {
